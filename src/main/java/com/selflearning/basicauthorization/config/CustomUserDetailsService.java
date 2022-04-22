@@ -1,4 +1,4 @@
-package com.selflearning.authorizationwithjwt.config;
+package com.selflearning.basicauthorization.config;
 
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.User;

@@ -1,4 +1,4 @@
-package com.selflearning.authorizationwithjwt;
+package com.selflearning.basicauthorization;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

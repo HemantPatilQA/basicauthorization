@@ -1,4 +1,4 @@
-package com.selflearning.authorizationwithjwt.config;
+package com.selflearning.basicauthorization.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

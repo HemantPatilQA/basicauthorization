@@ -1,4 +1,4 @@
-package com.selflearning.authorizationwithjwt;
+package com.selflearning.basicauthorization;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

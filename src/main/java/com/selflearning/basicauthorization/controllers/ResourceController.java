@@ -1,4 +1,4 @@
-package com.selflearning.authorizationwithjwt.controllers;
+package com.selflearning.basicauthorization.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
